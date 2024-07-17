@@ -1,2 +1,2 @@
-# Streamlit-In-One-Go
+# Project-In-One-Go
 this will have the code
